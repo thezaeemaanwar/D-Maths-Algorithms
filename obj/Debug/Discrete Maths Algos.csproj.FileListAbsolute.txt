@@ -1,0 +1,7 @@
+F:\projects\Discrete Maths Algos\bin\Debug\Discrete Maths Algos.exe.config
+F:\projects\Discrete Maths Algos\bin\Debug\Discrete Maths Algos.exe
+F:\projects\Discrete Maths Algos\bin\Debug\Discrete Maths Algos.pdb
+F:\projects\Discrete Maths Algos\obj\Debug\Discrete Maths Algos.csprojAssemblyReference.cache
+F:\projects\Discrete Maths Algos\obj\Debug\Discrete Maths Algos.csproj.CoreCompileInputs.cache
+F:\projects\Discrete Maths Algos\obj\Debug\Discrete Maths Algos.exe
+F:\projects\Discrete Maths Algos\obj\Debug\Discrete Maths Algos.pdb
