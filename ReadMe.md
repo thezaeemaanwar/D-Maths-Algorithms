@@ -1,6 +1,4 @@
-=========================================================
-	    ## Open/Run the project
-	   ----------------------
+## Open/Run the project
 <ol>
 <li>Extract the zip file into desired</li> 
     location.
@@ -9,9 +7,7 @@
  <li>A console will be opened</li>
 </ol>
 
-=========================================================
-	     Operate the Application
-	   --------------------------
+## Operate the Application
  1. Application is simple to use
  2. On the menu, there will be 5 options asking for 
     what you want to do.
@@ -21,4 +17,3 @@
     information needed for particular algorithm.
  5. To Exit the application, select option 5.
 
-=========================================================
