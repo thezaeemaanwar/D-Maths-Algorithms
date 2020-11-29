@@ -1,11 +1,13 @@
 =========================================================
-	     Open/Run the project
-	   -----------------------
- 1. Extract the zip file into desired 
+	    ## Open/Run the project
+	   ----------------------
+<ol>
+<li>Extract the zip file into desired</li> 
     location.
- 2. Go to bin/debug/"Discrete Maths Algo.exe"
- 3. Open the file 
- 4. A console will be opened
+ <li> Go to bin/debug/"Discrete Maths Algo.exe"</li>
+ <li> Open the file </li>
+ <li>A console will be opened</li>
+</ol>
 
 =========================================================
 	     Operate the Application
